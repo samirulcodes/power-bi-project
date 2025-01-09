@@ -1,0 +1,42 @@
+POWER QUERY EDITOR
+
+removing null value from row
+ - sort ascending/descending
+ - go to home tab
+ - click on remove row
+ - by this way we can remove null value from row
+
+removing duplicates
+ - select all columns heading
+ - click on filter of primary key(heading), click on remove duplicate 
+
+replace value
+ - click on replace value , vlaue to find: replace with 
+
+detect data type
+ - select all columns heading
+ - go to transform tab
+ - click on detect data type 
+
+** at the end we need to close and apply whatever changes in the data otherwise no changes will happen
+
+CANVA SHEET
+
+removing grid line from chart
+ - click on chart you select
+ - go to visualization, then click on format visual
+ - go to visual then click on gridline
+
+add title
+ - click on chart you select
+ - go to visualization, then click on format visual
+ -  go to visual , then click on add title
+
+changing color of bar of chart
+ - click on chart you select
+ - go to visualization, then click on format visual
+ - go to visual , then click on columns , also changed color based fx(conditional formataing)
+
+to make same chart as already done
+ - click on that chart you want to make a copy same to other chart
+ - home tab, format painter, click on chart you want to make same as previous
